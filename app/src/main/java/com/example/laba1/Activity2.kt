@@ -10,4 +10,4 @@ class Activity2 : AppCompatActivity() {
     }
 }
 //kkkmmknncdcd
-//gggg
+//ggggl
